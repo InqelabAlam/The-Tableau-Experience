@@ -29,8 +29,8 @@ This Tableau project analyzes Airbnb listing data to identify high-potential pro
 
 | File | Description |
 |------|-------------|
-| `AirBnB Price Dashboard.twbx` | Tableau Packaged Workbook |
-| `AirBnB Price Dashboard` | Dashboard screenshots |
+| `Airbnb Investment Dashboard.twbx` | Tableau Packaged Workbook |
+| `Airbnb Investment Dashboard` | Dashboard screenshots |
 | `README.md` | This project documentation |
 
 ---
