@@ -58,7 +58,6 @@ This Tableau project analyzes Airbnb listing data to identify high-potential pro
 This project is ideal for:
 - Real estate investors researching high-performing Airbnb areas
 - Airbnb hosts optimizing their listings
-- Data analysts exploring practical Tableau use cases
 
 ---
 
